@@ -1,0 +1,31 @@
+
+.root {
+    padding: 20px;
+    margin: 20px;
+}
+
+.tableHead {
+    background-color: #b3c9e0;
+}
+
+.m020 {
+    margin: 20px 0;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.errorMess {
+    background-color: #ffcfcf;
+    padding: 5px;
+    font-size: 16px;
+    color: #ff6363;      
+}
+
+.successAdd {
+    background-color: #cfffd0;
+    color: #091aeb;
+    padding: 5px;
+    font-size: 16px;
+}
